@@ -1,0 +1,10 @@
+{
+    "name": "News Updates",
+    "description": "Get latest news updates in just a click!",
+    "version":"1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "index.html",
+        "default_icon":"image.jpg"
+    }
+}

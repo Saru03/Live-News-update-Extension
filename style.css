@@ -1,0 +1,10 @@
+#img{
+    width:300px;
+    height:300px;
+}
+body{
+    background: linear-gradient(#7CE4DC,white);
+}
+#headline{
+    font-family: 'Lucida Sans';
+}
